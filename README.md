@@ -73,16 +73,22 @@
 
 ---
 
-### 🧩 Most Used Languages (Manual Overview)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberhawkMAX&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=00BFFF&icon_color=FF0033&text_color=CCCCCC&border_color=FF0033&cache_buster=20251029_1" height="165"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-35%25-00BFFF?style=for-the-badge&logo=python&logoColor=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-25%25-FF0033?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-15%25-000000?style=for-the-badge&logo=typescript&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/React-10%25-00BFFF?style=for-the-badge&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Go-8%25-FF0033?style=for-the-badge&logo=go&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Others-7%25-000000?style=for-the-badge&logo=codepen&logoColor=FF0033" />
-</p>
+
+## 📊 My GitHub in Numbers
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberhawkMAX&show_icons=true&theme=dracula&hide_border=true&title_color=FF0033&icon_color=00BFFF&text_color=CCCCCC&border_color=00BFFF&cache_seconds=3600" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberhawkMAX&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=00BFFF&icon_color=FF0033&text_color=CCCCCC&border_color=00BFFF&cache_buster=20251029_1" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberhawkMAX&theme=dracula&hide_border=true&border_color=FF0033&cache_buster=20251029_1" height="165"/>
+</div>
+
 
 ---
 
