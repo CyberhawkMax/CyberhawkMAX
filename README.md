@@ -51,6 +51,33 @@
 
 ---
 
+## 📊 Manual Most Used Languages
+
+<div align="center" style="width:85%; margin:auto; background:#0a0a0a; border-radius:12px; padding:20px; box-shadow:0 0 10px #00FFFF;">
+  
+  <div align="left" style="font-weight:bold;">🐍 Python — 35%</div>
+  <div style="height:18px; width:35%; background:#00FFFF; border-radius:4px; margin-bottom:6px;"></div>
+  
+  <div align="left" style="font-weight:bold;">⚡ JavaScript — 25%</div>
+  <div style="height:18px; width:25%; background:#FF4500; border-radius:4px; margin-bottom:6px;"></div>
+  
+  <div align="left" style="font-weight:bold;">🌀 TypeScript — 15%</div>
+  <div style="height:18px; width:15%; background:#1E90FF; border-radius:4px; margin-bottom:6px;"></div>
+  
+  <div align="left" style="font-weight:bold;">⚛️ React — 10%</div>
+  <div style="height:18px; width:10%; background:#00FFFF; border-radius:4px; margin-bottom:6px;"></div>
+  
+  <div align="left" style="font-weight:bold;">💻 Go — 8%</div>
+  <div style="height:18px; width:8%; background:#FF4500; border-radius:4px; margin-bottom:6px;"></div>
+  
+  <div align="left" style="font-weight:bold;">🔧 Others — 7%</div>
+  <div style="height:18px; width:7%; background:#1E90FF; border-radius:4px; margin-bottom:6px;"></div>
+
+  <p align="center"><i>“Efficiency visualized — language distribution snapshot.”</i></p>
+</div>
+
+---
+
 ## ⚡ Activity & Highlights
 
 <p align="center">
@@ -65,14 +92,10 @@
 
 ---
 
-## 📊 My GitHub in Numbers
+## 📈 GitHub Overview
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberhawkMAX&show_icons=true&theme=dracula&hide_border=true&title_color=00FFFF&icon_color=FF4500&text_color=CCCCCC&border_color=1E90FF&cache_seconds=3600" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberhawkMAX&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=1E90FF&icon_color=FF4500&text_color=00FFFF&border_color=00FFFF&cache_buster=20251029_4" height="165"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberhawkMAX&theme=dracula&hide_border=true&border_color=FF4500&cache_buster=20251029_4" height="165"/>
 </div>
 
